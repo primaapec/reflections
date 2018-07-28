@@ -1,0 +1,47 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    You can see lines with differences and then see if there was any mistake
+	in changed lines.
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    You could easily backup your file if something went wrong or for example 
+	newer version was figured out to be worse and you can more easily compare
+	different versions of file.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    To talk about advantages, you can more easily choose right version if there are 
+	less of them, moreover each version choosen manually is complete version while
+	versions automaticly saved can be incomplete. Secontly, when you manually create 
+	a commit you can choose exact time to do it while with google docs technology 
+	you cant control it. Talking about pros, you can't see history of changes in files 
+	between commits while with versions automatically saved you can.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    I think different version control systems have different purposes. And for 
+	for first type of version control systems (like Git) object you are working with
+	it's a project containing a lot of files that are often related to each other 
+	and for second type it's a simple file that is independent one.
+
+How can you use the commands git log and git diff to view the history of files?
+
+    At first I can use 'git log' command to get the list the lastest commits 
+	of my project with short messages. Then I can check differences between 
+	2 chosen versions using 'git diff id1 id2' command.
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    You can easily backup version without a bug and fix it seeing the 
+	differences between commits.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    I don't know at the moment.
