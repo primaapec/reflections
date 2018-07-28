@@ -12,8 +12,17 @@ What value do you think it offers?
 How can you use the staging area to make sure you have one commit per logical
 change?
 
+	You can use 'git diff --staged' to explore changed files and lines of code
+	so you can see if made changes relate to one logical improvement.
+	
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+
+	You can use branches when you need to add some experimental functions that
+	you don't know at the moment whether you add them to the application or not.
+	Also when you need to change some behavior to create separete version of 
+	application. Also when you need to add some module that will be developed 
+	for a long time.
 
 How do the diagrams help you visualize the branch structure?
 
