@@ -37,3 +37,12 @@ be harder?
 	find common time to meet and it's hard. Second option entails manually work with
 	files to compare them and understand which changes have been presented. So the 
 	easiest way is to use Git and GitHub.
+
+When would you want to make changes in a separate branch rather than directly in master?
+What benefits does each approach have?
+
+	Making changes in a separate branch should be used when you create something that you
+	would like to discuss with another members and what need not to impact to main version
+	(master branch) before this discussion. It is more complicated to use it but it gives
+	an oppportunity to collaborate with another people. When you work alone you can make 
+	changes directly in master and don't make any complicated steps.
