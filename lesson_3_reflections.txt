@@ -21,4 +21,8 @@ of another?
 	When you are going to offer changes and/or improvements you should fork repository to have
 	a relation with the original. And after cloning or forking you will use branches in cases
 	that we have mentioned in the previous lessons.
-	
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+	You can check if there have been any changes since last known state so you will know
+	if you need to examine them to merge in right way.
