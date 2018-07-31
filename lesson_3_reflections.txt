@@ -10,3 +10,15 @@ stay up-to-date with your remote repository?
 	each one of them could be developed by different person and represent different feature
 	so you don't need to pull all this changes. You just need the ones that relates to your
 	problem.
+
+Describe the differences between forks, clones, and branches. When would you use one instead
+of another?
+
+	Firstly, forks and clones copy the contains of a repository to another place without any 
+	changes while branches changes the repository structure. Secondly, forks are cloud repository
+	while clones are local.
+	When you will not offer any changes to the author or will not make them you might use clone.
+	When you are going to offer changes and/or improvements you should fork repository to have
+	a relation with the original. And after cloning or forking you will use branches in cases
+	that we have mentioned in the previous lessons.
+	
